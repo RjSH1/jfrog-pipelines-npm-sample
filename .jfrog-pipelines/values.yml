@@ -1,4 +1,4 @@
 myRepo:
   gitProvider: rajGit
-  artifactoryIntegration: rajArt
+  artifactory: rajArt
   path: RjSH1/jfrog-pipelines-npm-sample
